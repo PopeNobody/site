@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: invisiblehand.church
+Token: e3ef7b5701169135a7d76c01249ba3fd39671f48552364626696a52a30e22293

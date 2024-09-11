@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/electnobody
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://CopBlock.App
+  * I am electnobody (https://keybase.io/electnobody) on keybase.
+  * I have a public key ASD3RChbf-eAnXxtUdjqCH0pQTmOP1hjwG-ftWAM9WIkYgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01209613932f8d4e4da89e63ae8647a4043b84600bde9c70840116f1a12b4f091f5e0a",
+      "host": "keybase.io",
+      "kid": "0120f744285b7fe7809d7c6d51d8ea087d2941398e3f5863c06f9fb5600cf56224620a",
+      "uid": "b2176e5f9348853acc0fe86442cb7e19",
+      "username": "electnobody"
+    },
+    "merkle_root": {
+      "ctime": 1603038016,
+      "hash": "b22b1f62904b3760de1e050c77ef005effd481d32e9c925d9aa9d1120d64570e99a2b021c5518e2febf23538214679854df2276f7683824ca0c8264dd9db1665",
+      "hash_meta": "eeee364de483ce6e5ca4e37154d634064953dcc84f547a92b3028f204378830c",
+      "seqno": 17861341
+    },
+    "service": {
+      "entropy": "NOHc3cijHH5I/PJF7kAe0s/y",
+      "hostname": "CopBlock.App",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.2"
+  },
+  "ctime": 1603038031,
+  "expire_in": 504576000,
+  "prev": "9a4055372304676163462540c225c9eca1a52b68945a670286fe7cd6ebcf2e2e",
+  "seqno": 108,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg90QoW3/ngJ18bVHY6gh9KUE5jj9YY8Bvn7VgDPViJGIKp3BheWxvYWTESpcCbMQgmkBVNyMEZ2FjRiVAwiXJ7KGlK2iUWmcChv581uvPLi7EICYPXkF3qTS/hr5Jnbsdzx66UFTg5dmuk3KSmiDddwcDAgHCo3NpZ8RAIRCXzSY8tC9oy0xT/a9I3csNaNpllMirXDibOwGgdxJkerLlaW9EdVBNaHpgN/jWxqEKU2zoKltcF7wfQSCqCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDJ8sGk5qeZKX55exzlh9t7LYakfWkb9OJtTnymLahNno3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/electnobody
+
+==================================================================

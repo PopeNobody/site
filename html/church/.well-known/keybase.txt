@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/electnobody
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://InvisibleHand.Church
+  * I am electnobody (https://keybase.io/electnobody) on keybase.
+  * I have a public key ASD3RChbf-eAnXxtUdjqCH0pQTmOP1hjwG-ftWAM9WIkYgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01209613932f8d4e4da89e63ae8647a4043b84600bde9c70840116f1a12b4f091f5e0a",
+      "host": "keybase.io",
+      "kid": "0120f744285b7fe7809d7c6d51d8ea087d2941398e3f5863c06f9fb5600cf56224620a",
+      "uid": "b2176e5f9348853acc0fe86442cb7e19",
+      "username": "electnobody"
+    },
+    "merkle_root": {
+      "ctime": 1603037852,
+      "hash": "c68342a27f1620e81a62cc2656912afd4fe1361fcd3e2d1cf4c8cc086dd8742155a3616ee61c8d00dc0d3d67db1508eb1d8c678b9c1b3774d99a887d795465ef",
+      "hash_meta": "613c64560e13c9936ce8b2c4bc969b84eb7ac651c74f660083809972f27be131",
+      "seqno": 17861322
+    },
+    "service": {
+      "entropy": "hHmKaWb1sNxz7PAx941p2OvV",
+      "hostname": "InvisibleHand.Church",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.2"
+  },
+  "ctime": 1603037888,
+  "expire_in": 504576000,
+  "prev": "68d0fb1cd065c057a43fc5bc3000d64c99fc0f9dd741c7fe25b958019acc318f",
+  "seqno": 106,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg90QoW3/ngJ18bVHY6gh9KUE5jj9YY8Bvn7VgDPViJGIKp3BheWxvYWTESpcCasQgaND7HNBlwFekP8W8MADWTJn8D53XQcf+JblYAZrMMY/EILJPob1Op6VT+AqxTjfeCtjvL2XkBd9X6bofz8PvfLAjAgHCo3NpZ8RA7ypp3oAvWqYCMWgGHSA80Ndq5dNrHPzR8UaSb9TgoJDdf1jFo0ty/hJibTUkdAddI7NzdiBjd10NoPVosMUiDahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMU1RktR+Utm2ioRscEYwsJsEcqCgSI1KNKnWEdv7QXBo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/electnobody
+
+==================================================================
